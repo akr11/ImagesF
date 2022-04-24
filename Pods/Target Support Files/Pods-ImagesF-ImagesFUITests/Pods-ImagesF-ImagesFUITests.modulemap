@@ -1,0 +1,6 @@
+framework module Pods_ImagesF_ImagesFUITests {
+  umbrella header "Pods-ImagesF-ImagesFUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
